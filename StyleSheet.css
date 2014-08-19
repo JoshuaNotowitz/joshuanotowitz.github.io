@@ -1,0 +1,170 @@
+<style type="text/css">
+<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+.tight {
+	line-height: 1.333333
+}
+
+.light {
+	color: #7a7a7a;
+}
+
+.light a {
+	color:midnightblue;
+	position: relative;
+	left:19px;
+	top:-35px;
+}
+
+.light a:hover, .light a:focus {
+	color: orange;
+	border-bottom-color: orange;
+}
+
+.no-list-style {
+	padding-left: 0;
+	list-style: none;
+}
+#doc {
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 70em
+}
+.h2 {
+	margin-bottom:1em;
+	margin-top:1em;
+	font-weight: normal;
+}
+
+.no-list-style dd {
+	margin-left: 0;
+	padding: 2px;
+}
+
+.push--bottom {
+	margin-bottom: 1.5384615385em;
+}
+.grid {
+	margin-left: -20px;
+}
+
+.grid__item {
+	display: inline-block;
+	width:100%;
+	margin-top: 0;
+	padding-left: 20px;
+	vertical-align: top;
+}
+
+.cf :before, .cf :after {
+	content: " "
+	display: table;
+}
+.cf :after {
+	clear: both;
+}
+.fulladd {
+	width: 210px;
+	background-color: midnightblue;
+	color: white;
+	text-align: center;
+	position: relative;	
+	top: -20px;
+}
+.phone {
+	width: 210px;
+	text-align: center;
+	background-color: midnightblue;
+	color: white;
+	position: relative;	
+	top: -35px;
+}
+.contact {
+	color: midnightblue;
+	width: 210px;
+	text-align: center;	
+	position: relative;
+}
+.ContactInfo {
+	position: relative;
+	top:-130px;
+}
+.Face {
+	height: 500px;
+	border-radius: 250px;
+	border:10px solid midnightblue;
+	position:relative;
+	left: 445px;
+	top: -390px;
+}
+.Cats {
+	height: 225px;
+	border-radius: 250px;
+	position: relative;
+	left: -400px;
+	top: -420px;
+	border: 4px solid midnightblue;
+}
+.Tree {
+	height: 450px;
+	border-radius: 100px;
+	border: 4px solid midnightblue;
+	position: relative;
+	top: -600px;
+	left: 220px;
+}
+h1 {
+	position: relative;
+	font-size: 75px;
+	font-family: 'Montserrat', sans-serif;
+	color: midnightblue;
+	left: 300px;
+	top: 28px;
+}
+p {
+	width: 350px;
+	text-align: justify;
+	color: midnightblue;
+	position: relative;
+	top: -130px;
+}
+body {
+	margin-left: 60px
+}
+.large {
+	height: 300px;
+	margin: 10 auto;
+	position: relative;
+	left: 83px;
+	border-radius: 150px;
+	border: 8px solid midnightblue;
+	left: 1030px;
+	top: -580px;
+}
+.small {
+	height: 100px;
+	padding: 10px;
+	border-radius: 50px;
+	border: 4px solid midnightblue;
+	position: relative;
+	left: 725px;
+	top: -430px;
+}
+.cap1 {
+	color: midnightblue;
+	position: relative;
+	left: 90px;
+	top: -740px;
+}
+.cap2 {
+	color: midnightblue;
+	position: relative;
+	top: -1431px;
+	left: 1042px;
+}
+.credits {
+	color: midnightblue;
+	position: relative;	
+	left: 1010px;
+	top: -464px;
+}
+</style>
